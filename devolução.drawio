@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T22:40:56.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="9XuuVPA2RzAccOcJ_7YQ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T22:42:18.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="maIOg0OIqnKKyhBNjETy" version="23.1.5" type="github">
   <diagram name="Página-1" id="uKG1hIwC789y6OuYV_Js">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Io_aHo277Q3QV6PfObrv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="239" y="340" width="360" height="630" as="geometry" />
+          <mxGeometry x="250" y="340" width="310" height="580" as="geometry" />
         </mxCell>
         <mxCell id="Io_aHo277Q3QV6PfObrv-1" value="Confirmar locação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="640" width="120" height="80" as="geometry" />
